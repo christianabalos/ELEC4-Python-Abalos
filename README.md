@@ -29,10 +29,21 @@ Run:
 
 ![P2 Results](set1/p2/screenshots/p2_results.png)
 
+
 ### P3 - Student Record Manager
 Manages student names using lists and sets.
 
+Run:
+`python set1/p3/p3_record_manager.py`
+
 [View P3 Folder](set1/p3)
+
+![P3 Display](set1/p3/screenshots/p3_display.png)
+
+[Add Students](set1/p3/screenshots/p3_add_students.png) |
+[Duplicate Prevention](set1/p3/screenshots/p3_duplicate.png) |
+[Search Student](set1/p3/screenshots/p3_search.png) |
+[Remove Student](set1/p3/screenshots/p3_remove_display.png)
 
 ### P4 - Safe Menu Program
 Handles invalid inputs using exception handling.
